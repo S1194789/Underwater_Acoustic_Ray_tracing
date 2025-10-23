@@ -21,11 +21,6 @@ It integrates both **MATLAB** and **Python** simulations to visualize ray paths,
 | Path | Description |
 |------|--------------|
 | **Codes/** | Contains all simulation and analysis scripts |
-| ├── `ray_tracing_simulation.m` | MATLAB code for ray trajectory computation using Snell’s law |
-| ├── `emission_angle_solver.py` | Python script to calculate the optimal emission angle between two hydrophones |
-| ├── `signal_analysis.m` | Processes receiver signals to extract first arrival times and time delays |
-| ├── `backpropagation_heatmap.py` | Generates heatmaps for source localization using time-reversed signals |
-| └── `utils/` | Helper functions (sound speed profile, numerical gradient, coordinate conversion) |
 | **HW1_MIR_2425_UWA.pdf** | Homework 1 – Acoustic ray trajectory and emission angle calculations |
 | **HW2_MIR_2425_UWA.pdf** | Homework 2 – Signal analysis, time delay, and backpropagation method |
 | **Underwater_Acoustics_report_Kwon_Mukesh.pdf** | Final report combining Homework 1 & 2 with discussion and figures |
